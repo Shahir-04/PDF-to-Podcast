@@ -28,7 +28,7 @@ Transform your PDF documents and books into engaging audio podcasts using AI!
 
 1. **Clone the repository**
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Shahir-04/PDF-to-Podcast.git
 cd pdf-to-podcast
 ```
 
@@ -153,5 +153,6 @@ MIT License - feel free to use this project for your own purposes.
 For issues and questions, please open an issue on GitHub.
 
 ---
+
 
 Built with ❤️ using LangChain, LangGraph, OpenAI & Streamlit
